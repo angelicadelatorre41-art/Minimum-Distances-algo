@@ -1,1 +1,1 @@
-# Minimum-Distances-algo
+# Minimum-Distances-algo The function searches for all pairs of equal elements in the array and calculates their distances. It keeps track of the smallest distance found, returning -1 if no duplicates exist.
